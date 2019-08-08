@@ -34,5 +34,6 @@ public class AppTest
     public void testApp()
     {
         assertTrue( true );
+        System.out.println("HELLO FROM 0.2.0 TEST!");
     }
 }
