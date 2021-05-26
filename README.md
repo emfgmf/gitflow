@@ -1,1 +1,3 @@
-# gitflowNew
+# gitflow CLONE
+
+Adds something new.
